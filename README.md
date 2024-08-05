@@ -19,9 +19,13 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5. Reconstruir la BD con la Seed
+```
+http://localhost:3000/api/v2/seed
+```
 ## Stack usado
 * MongoDB
-* Nest# nest-pokedex
+* Nest
 
 # nest-pokedex
 
